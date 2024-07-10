@@ -13,6 +13,10 @@ This is a Python script designed to organize files based on their extension.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+https://github.com/rahal1cherif/file_organizer/assets/43117059/8d47d1d1-7a11-4a08-ab59-bfaa095dc945
+
+
+
 </div>
 
 The File Organizer script automatically categorizes and moves files into folders based on their file extension. It supports a wide range of file types including images, documents, audio, video, archives, scripts, and more. This tool is designed to help you declutter your download or any specified folder by organizing files into clearly labeled folders.

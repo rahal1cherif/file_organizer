@@ -13,8 +13,11 @@ This is a Python script designed to organize files based on their extension.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-https://github.com/rahal1cherif/file_organizer/assets/43117059/8d47d1d1-7a11-4a08-ab59-bfaa095dc945
 
+
+
+
+https://github.com/rahal1cherif/file_organizer/assets/43117059/5e1675f8-b6d3-4af2-804b-99658ccab9c4
 
 
 </div>
